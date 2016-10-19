@@ -14,13 +14,13 @@ div {
 
 .btn {
   display: inline-block;
-font-size: 1.125rem;
-padding: 0.4em 0.75em 0.3em;
-border-radius: 8px;
-border-width: 3px;
-text-decoration: none;
-color: #fff;
-background-color: #333;
+  font-size: 1.125rem;
+  padding: 0.4em 0.75em 0.3em;
+  border-radius: 8px;
+  border-width: 3px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #333;
 }
 
 .btn:hover {
@@ -58,7 +58,7 @@ background-color: #333;
 }
 
 .btn-small {
-font-size: 0.875rem;
+  font-size: 0.875rem;
 }
 
 .btn-big {
