@@ -15,7 +15,7 @@ div {
 .btn {
   display: inline-block;
   font-size: 1.125rem;
-  padding: 0.4em 0.75em 0.3em;
+  padding: 0.55em 0.75em 0.55em;
   border-radius: 8px;
   border-width: 3px;
   text-decoration: none;
@@ -40,7 +40,6 @@ div {
   color: #333;
   background-color: #fff;
   border-color: #666;
-  border-width: thick;
 }
 
 .btn-ghost:hover {
